@@ -1,4 +1,4 @@
-module github.com/hill/gopsutil/v1
+module github.com/Hill1126/gopsutil/v1
 
 go 1.15
 
